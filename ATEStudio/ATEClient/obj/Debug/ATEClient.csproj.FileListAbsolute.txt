@@ -1,0 +1,14 @@
+F:\vs2015\项目\ATEStudio\ATEClient\bin\Debug\ATEClient.exe
+F:\vs2015\项目\ATEStudio\ATEClient\bin\Debug\ATEClient.pdb
+F:\vs2015\项目\ATEStudio\ATEClient\obj\Debug\ATEClient.csprojResolveAssemblyReference.cache
+F:\vs2015\项目\ATEStudio\ATEClient\obj\Debug\ATEClient.LoginFrm.resources
+F:\vs2015\项目\ATEStudio\ATEClient\obj\Debug\ATEClient.MainFrm.resources
+F:\vs2015\项目\ATEStudio\ATEClient\obj\Debug\ATEClient.Properties.Resources.resources
+F:\vs2015\项目\ATEStudio\ATEClient\obj\Debug\ATEClient.csproj.GenerateResource.Cache
+F:\vs2015\项目\ATEStudio\ATEClient\obj\Debug\ATEClient.exe
+F:\vs2015\项目\ATEStudio\ATEClient\obj\Debug\ATEClient.pdb
+F:\vs2015\项目\ATEStudio\ATEClient\bin\Debug\ATEClient.exe.config
+F:\vs2015\项目\ATEStudio\ATEClient\bin\Debug\Newtonsoft.Json.dll
+F:\vs2015\项目\ATEStudio\ATEClient\bin\Debug\System.Net.Http.dll
+F:\vs2015\项目\ATEStudio\ATEClient\bin\Debug\System.Net.Http.xml
+F:\vs2015\项目\ATEStudio\ATEClient\bin\Debug\zh-Hans\System.Net.Http.resources.dll
