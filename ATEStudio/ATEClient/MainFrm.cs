@@ -26,7 +26,7 @@ namespace ATEClient
             textBox4.Text = msg4.Substring(52);
             textBox5.Text = msg5.Substring(52);
             textBox6.Text = msg6.Substring(52);
-            //111111
+            //111111111
         }
     }
 }
